@@ -1,0 +1,7 @@
+var convertTemperature = function(celsius) {
+    var a=[]
+    var b=celsius+273.15
+    var c=celsius*1.80+32.00
+     a.push(b,c)
+    return a
+};
