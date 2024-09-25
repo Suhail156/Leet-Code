@@ -1,0 +1,6 @@
+var containsDuplicate = function(nums) {
+  let num1=[...new Set(nums)]
+   return nums.length!=num1.length
+    
+
+};
