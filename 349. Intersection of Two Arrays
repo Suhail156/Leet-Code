@@ -1,0 +1,15 @@
+var intersection = function(nums1, nums2) {
+    let count=[]
+    nums1.sort()
+    nums2.sort()
+    let a=[...new Set(nums1)]
+    let b=[...new Set(nums2)]
+    for(let i=0;i<a.length;i++){
+        for(let j=0;j<b.length;j++){
+            if(a[i]==b[j]){
+               count.push(a[i])
+            }
+        }
+    }
+    return count
+};
