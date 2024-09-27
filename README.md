@@ -5,13 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Suhail156/Leet-Code/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Suhail156/Leet-Code/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Suhail156/Leet-Code/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Suhail156/Leet-Code/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Suhail156/Leet-Code/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Suhail156/Leet-Code/tree/master/0389-find-the-difference) |
 ## String
 |  |
@@ -20,9 +23,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Suhail156/Leet-Code/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Suhail156/Leet-Code/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Suhail156/Leet-Code/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Suhail156/Leet-Code/tree/master/0389-find-the-difference) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Suhail156/Leet-Code/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
