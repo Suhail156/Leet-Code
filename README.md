@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Suhail156/Leet-Code/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Suhail156/Leet-Code/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,4 +42,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Suhail156/Leet-Code/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Suhail156/Leet-Code/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Suhail156/Leet-Code/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
