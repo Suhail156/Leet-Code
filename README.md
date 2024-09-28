@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Suhail156/Leet-Code/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Suhail156/Leet-Code/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Suhail156/Leet-Code/tree/master/0367-valid-perfect-square) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Suhail156/Leet-Code/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Suhail156/Leet-Code/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
 | ------- |
