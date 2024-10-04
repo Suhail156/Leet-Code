@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/Suhail156/Leet-Code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Suhail156/Leet-Code/tree/master/0392-is-subsequence) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Suhail156/Leet-Code/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Suhail156/Leet-Code/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Suhail156/Leet-Code/tree/master/1341-split-a-string-in-balanced-strings) |
+## Counting
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Suhail156/Leet-Code/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
