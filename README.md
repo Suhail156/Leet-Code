@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Suhail156/Leet-Code/tree/master/0392-is-subsequence) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Suhail156/Leet-Code/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1944-truncate-sentence](https://github.com/Suhail156/Leet-Code/tree/master/1944-truncate-sentence) |
+| [2128-reverse-prefix-of-word](https://github.com/Suhail156/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/Suhail156/Leet-Code/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Suhail156/Leet-Code/tree/master/0392-is-subsequence) |
+| [2128-reverse-prefix-of-word](https://github.com/Suhail156/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Suhail156/Leet-Code/tree/master/1341-split-a-string-in-balanced-strings) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/Suhail156/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
