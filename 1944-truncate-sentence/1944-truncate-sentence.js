@@ -4,6 +4,6 @@
  * @return {string}
  */
 var truncateSentence = function(s, k) {
-    let a=s.split(' ').splice(0,k).join(' ')
+    let a=s.split(' ',k).join(' ')
     return a
 };
