@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Suhail156/Leet-Code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Suhail156/Leet-Code/tree/master/0392-is-subsequence) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Suhail156/Leet-Code/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1894-merge-strings-alternately](https://github.com/Suhail156/Leet-Code/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/Suhail156/Leet-Code/tree/master/1944-truncate-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/Suhail156/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 | [2727-number-of-senior-citizens](https://github.com/Suhail156/Leet-Code/tree/master/2727-number-of-senior-citizens) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/Suhail156/Leet-Code/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Suhail156/Leet-Code/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/Suhail156/Leet-Code/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/Suhail156/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
