@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Suhail156/Leet-Code/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Suhail156/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Suhail156/Leet-Code/tree/master/0283-move-zeroes) |
+| [1848-sum-of-unique-elements](https://github.com/Suhail156/Leet-Code/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/Suhail156/Leet-Code/tree/master/1944-truncate-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/Suhail156/Leet-Code/tree/master/2727-number-of-senior-citizens) |
 ## Math
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Suhail156/Leet-Code/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Suhail156/Leet-Code/tree/master/0389-find-the-difference) |
+| [1848-sum-of-unique-elements](https://github.com/Suhail156/Leet-Code/tree/master/1848-sum-of-unique-elements) |
 ## String
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Suhail156/Leet-Code/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1848-sum-of-unique-elements](https://github.com/Suhail156/Leet-Code/tree/master/1848-sum-of-unique-elements) |
 ## Stack
 |  |
 | ------- |
