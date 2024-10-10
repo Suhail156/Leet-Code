@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Suhail156/Leet-Code/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Suhail156/Leet-Code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Suhail156/Leet-Code/tree/master/0283-move-zeroes) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Suhail156/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1848-sum-of-unique-elements](https://github.com/Suhail156/Leet-Code/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/Suhail156/Leet-Code/tree/master/1944-truncate-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/Suhail156/Leet-Code/tree/master/2727-number-of-senior-citizens) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Suhail156/Leet-Code/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Suhail156/Leet-Code/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Suhail156/Leet-Code/tree/master/0367-valid-perfect-square) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Suhail156/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2383-add-two-integers](https://github.com/Suhail156/Leet-Code/tree/master/2383-add-two-integers) |
 ## Hash Table
 |  |
