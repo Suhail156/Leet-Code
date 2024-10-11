@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Suhail156/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1848-sum-of-unique-elements](https://github.com/Suhail156/Leet-Code/tree/master/1848-sum-of-unique-elements) |
 | [1944-truncate-sentence](https://github.com/Suhail156/Leet-Code/tree/master/1944-truncate-sentence) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Suhail156/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2727-number-of-senior-citizens](https://github.com/Suhail156/Leet-Code/tree/master/2727-number-of-senior-citizens) |
 ## Math
 |  |
@@ -47,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Suhail156/Leet-Code/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Suhail156/Leet-Code/tree/master/0389-find-the-difference) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Suhail156/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Suhail156/Leet-Code/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Suhail156/Leet-Code/tree/master/0367-valid-perfect-square) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Suhail156/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
