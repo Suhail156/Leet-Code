@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Suhail156/Leet-Code/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Suhail156/Leet-Code/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Suhail156/Leet-Code/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Suhail156/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Suhail156/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Suhail156/Leet-Code/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Suhail156/Leet-Code/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Suhail156/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Suhail156/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
