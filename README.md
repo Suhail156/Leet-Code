@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Suhail156/Leet-Code/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Suhail156/Leet-Code/tree/master/0389-find-the-difference) |
 | [1848-sum-of-unique-elements](https://github.com/Suhail156/Leet-Code/tree/master/1848-sum-of-unique-elements) |
+| [2825-minimize-string-length](https://github.com/Suhail156/Leet-Code/tree/master/2825-minimize-string-length) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/Suhail156/Leet-Code/tree/master/1944-truncate-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/Suhail156/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 | [2727-number-of-senior-citizens](https://github.com/Suhail156/Leet-Code/tree/master/2727-number-of-senior-citizens) |
+| [2825-minimize-string-length](https://github.com/Suhail156/Leet-Code/tree/master/2825-minimize-string-length) |
 ## Bit Manipulation
 |  |
 | ------- |
