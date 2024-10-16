@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Suhail156/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
 | [2727-number-of-senior-citizens](https://github.com/Suhail156/Leet-Code/tree/master/2727-number-of-senior-citizens) |
 | [2825-minimize-string-length](https://github.com/Suhail156/Leet-Code/tree/master/2825-minimize-string-length) |
+| [3312-number-of-changing-keys](https://github.com/Suhail156/Leet-Code/tree/master/3312-number-of-changing-keys) |
 ## Bit Manipulation
 |  |
 | ------- |
