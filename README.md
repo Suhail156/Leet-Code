@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Suhail156/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Suhail156/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2383-add-two-integers](https://github.com/Suhail156/Leet-Code/tree/master/2383-add-two-integers) |
+| [2752-sum-multiples](https://github.com/Suhail156/Leet-Code/tree/master/2752-sum-multiples) |
 ## Hash Table
 |  |
 | ------- |
