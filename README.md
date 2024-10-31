@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Suhail156/Leet-Code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Suhail156/Leet-Code/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Suhail156/Leet-Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Suhail156/Leet-Code/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Suhail156/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Suhail156/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Suhail156/Leet-Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Suhail156/Leet-Code/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Suhail156/Leet-Code/tree/master/0389-find-the-difference) |
 ## Sorting
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/Suhail156/Leet-Code/tree/master/2128-reverse-prefix-of-word) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Suhail156/Leet-Code/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
